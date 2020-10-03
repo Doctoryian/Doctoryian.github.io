@@ -6,7 +6,7 @@
   <link href="https://doctoryian.com/atom.xml" rel="self"/>
   
   <link href="https://doctoryian.com/"/>
-  <updated>2020-09-27T15:14:35.293Z</updated>
+  <updated>2020-10-02T16:10:01.126Z</updated>
   <id>https://doctoryian.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hexo+Next配置Blog</title>
-    <link href="https://doctoryian.com/2020/09/05/this-is-my-first-blog-here/"/>
-    <id>https://doctoryian.com/2020/09/05/this-is-my-first-blog-here/</id>
+    <link href="https://doctoryian.com/posts/8f1f.html"/>
+    <id>https://doctoryian.com/posts/8f1f.html</id>
     <published>2020-09-04T18:19:36.000Z</published>
-    <updated>2020-09-27T15:14:35.293Z</updated>
+    <updated>2020-10-02T16:10:01.126Z</updated>
     
     
       
@@ -51,10 +51,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://doctoryian.com/2020/09/04/hello-world/"/>
-    <id>https://doctoryian.com/2020/09/04/hello-world/</id>
+    <link href="https://doctoryian.com/posts/3eeb.html"/>
+    <id>https://doctoryian.com/posts/3eeb.html</id>
     <published>2020-09-04T10:17:21.027Z</published>
-    <updated>2020-09-04T10:17:21.027Z</updated>
+    <updated>2020-10-02T16:10:01.123Z</updated>
     
     
       
